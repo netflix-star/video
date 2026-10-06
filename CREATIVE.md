@@ -4,21 +4,21 @@ The creative idea: appetite begins with attention. A familiar dish becomes an in
 
 ## Art direction
 
-Acid lime, warm ivory, charcoal green, plum, and dusty pink. Oversized Manrope typography paired with Cormorant Garamond italic. Sculptural, stylized 3D food. Fine orbit lines and generous negative space contrast with close food framing. A minimal custom wordmark replaces unverified official artwork.
+Acid lime, warm ivory, charcoal green, plum, and dusty pink. Oversized Manrope typography paired with Cormorant Garamond italic. Original 2D food illustrations with bold contour lines, solid fills, animated eyes, playful stickers, and graphic wipes. Every visual uses flat vector shapes; no 3D models, lighting, or rendered food assets are used. A minimal custom wordmark replaces unverified official artwork.
 
 ## Edit
 
 | Time | Picture | Voiceover |
 | --- | --- | --- |
-| 00–04 | Orbital opening, large type, expanding circle transition | What if your next craving… |
-| 04–08 | Rotating burger enters an acid-lime stage | …had a whole new dimension? |
-| 08–14 | Burger separates into independently moving ingredient layers | Every layer. Every angle. Every delicious detail. |
-| 14–20 | Phone concept with a rotating food view | A little closer. A little more real. |
-| 20–26 | Plum hero frame, 3D orbit rings, appetite typography | This is food that makes you stop. Look. And look again. |
-| 26–32 | Burger, pizza, and sushi rotate in a three-part collection | Because great taste deserves a great first impression. |
-| 32–38 | Full-frame kinetic words and floating ingredient accents | Turn a moment of curiosity into a moment of craving. |
-| 38–42 | Hero food and brand positioning | Holo Menu. |
-| 42–45 | Large wordmark and website invitation | See what’s possible. |
+| 00–04 | Illustrated eye character, large type, flat stripe transition | What if your next craving… |
+| 04–08 | Illustrated burger bounces onto an acid-lime stage | …had a whole new dimension? |
+| 08–14 | Vector burger separates into independently moving ingredient layers | Every layer. Every angle. Every delicious detail. |
+| 14–20 | Illustrated hand and phone with a sliding food carousel | A little closer. A little more real. |
+| 20–26 | Pink pop-art posters with illustrated food and appetite typography | This is food that makes you stop. Look. And look again. |
+| 26–32 | Burger, pizza, and noodle-bowl illustrations move in a three-part collection | Because great taste deserves a great first impression. |
+| 32–38 | Full-frame kinetic words, illustrated magnifier, and floating vector accents | Turn a moment of curiosity into a moment of craving. |
+| 38–42 | Illustrated food burst and brand positioning | Holo Menu. |
+| 42–45 | Large wordmark, illustrated eye seal, and website invitation | See what’s possible. |
 
 ## Sound
 
@@ -28,6 +28,8 @@ Voice: Kokoro `af_heart`, American English, generated narration. It is a synthet
 
 ## Editing notes
 
-Update scene copy, color values, model geometry, and time boundaries in `src/film.js`. Edit narration lines and their start times in `src/audio.py`; regenerate audio and render again. All animation is deterministic at a given timestamp.
+Open `assets/illustrations/*.svg` in Adobe Illustrator to edit paths, outlines, and flat fills. Burger layers are separate, aligned SVG files, so their motion remains independently editable.
+
+Update scene copy, color values, SVG illustrations, and time boundaries in `src/film.js`. Edit narration lines and their start times in `src/audio.py`; regenerate audio and render again. All animation is deterministic at a given timestamp.
 
 Website access was unavailable in the production environment. Product interface and brand styling need to be checked against the actual HoloMenu site before official publication.

@@ -1,6 +1,6 @@
 # HoloMenu — Food. With dimension.
 
-A 45-second, 16:9 motion design concept with procedural 3D food, animated typography, an original electronic score, sound design, and AI voiceover. Final delivery: 1920 × 1080, 30 fps, H.264/AAC.
+A 45-second, 16:9 motion design concept with original 2D vector illustrations, animated typography, an original electronic score, sound design, and AI voiceover. Final delivery: 1920 × 1080, 30 fps, H.264/AAC.
 
 [Download the MP4](https://github.com/netflix-star/video/raw/refs/heads/main/output/HoloMenu-45s.mp4) · [Download the editable source bundle](https://github.com/netflix-star/video/raw/refs/heads/main/output/HoloMenu-editable-source.zip)
 
@@ -12,13 +12,14 @@ A 45-second, 16:9 motion design concept with procedural 3D food, animated typogr
 - `output/music.wav` — original score and sound effects stem, with narration ducking.
 - `output/mix.wav` — complete unmastered stereo mix.
 - `index.html` — interactive, seekable source film.
-- `src/film.js` — time-driven Three.js scenes, design, and animation.
+- `src/film.js` — deterministic Canvas 2D scenes, design, and animation.
+- `assets/illustrations/*.svg` — 16 original vector illustrations, editable in Adobe Illustrator.
 - `src/audio.py` — narration generation, original music composition, sound design, and mixing.
 - `src/render.mjs` — deterministic browser frame export.
 
 ## Brand assumptions
 
-The production environment could not access `https://www.holomenu.food`: its egress proxy returned HTTP 403. The lime/cream/charcoal palette, wordmark treatment, stylized food assets, and phone interface are an original creative concept, not a reproduction of verified HoloMenu brand assets or its live interface. Copy avoids numerical product claims and unverified feature promises. Confirm this creative direction against the real brand before using it as an official advertisement.
+The production environment could not access `https://www.holomenu.food`: its egress proxy returned HTTP 403. The lime/cream/charcoal palette, wordmark treatment, flat vector food illustrations, and phone interface are an original creative concept, not a reproduction of verified HoloMenu brand assets or its live interface. Copy avoids numerical product claims and unverified feature promises. Confirm this creative direction against the real brand before using it as an official advertisement.
 
 The narration is generated with Kokoro's `af_heart` voice; no human voice actor was recorded or impersonated. The score and sound effects were synthesized specifically for this film. No commercial music recording is included.
 
@@ -31,9 +32,9 @@ npm ci
 python -m http.server 8000 --bind 0.0.0.0
 ```
 
-Open the served `index.html` in a browser. Press **Play film** for synchronized picture and sound; use the timeline to inspect any moment. Sources use a 1920 × 1080 design coordinate system. WebGL renders at 1280 × 720, composited with native 1080p typography and design into the final 1080p video.
+Open the served `index.html` in a browser. Press **Play film** for synchronized picture and sound; use the timeline to inspect any moment. The full film uses a native 1920 × 1080 Canvas 2D drawing surface. SVG illustrations are rasterized at export resolution alongside native text and graphic shapes. The project uses no WebGL, 3D geometry, lighting, or perspective cameras.
 
-Scene timing: 0–4 opening; 4–8 hero reveal; 8–14 exploded stack; 14–20 phone concept; 20–26 orbital food hero; 26–32 food collection; 32–38 kinetic typography; 38–42 brand promise; 42–45 end card.
+Scene timing: 0–4 opening; 4–8 hero reveal; 8–14 exploded stack; 14–20 illustrated phone concept; 20–26 pop-art food posters; 26–32 food collection; 32–38 kinetic typography; 38–42 brand promise; 42–45 end card.
 
 ## Render
 
@@ -43,9 +44,10 @@ Requires Chromium at `/usr/bin/chromium`, Node.js, FFmpeg, and the HTTP server a
 node src/render.mjs --samples
 node src/render.mjs
 bash src/finish.sh
+python src/package.py
 ```
 
-`render.mjs` exports exactly 1,350 frames. It renders fixed timestamps instead of recording real-time playback, so a slow machine does not produce dropped animation frames.
+`render.mjs` exports exactly 1,350 frames. It exports the Canvas 2D drawing surface at fixed timestamps instead of recording real-time playback, so a slow machine does not produce dropped animation frames.
 
 ## Recreate narration and music
 
