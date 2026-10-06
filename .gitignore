@@ -1,0 +1,11 @@
+node_modules/
+.python/
+assets/*.onnx
+assets/*.bin
+output/frames/
+output/*.log
+__pycache__/
+assets/BodoniModa.ttf
+output/picture.mp4
+output/sample-*.jpg
+output/voice-[0-9][0-9].wav
