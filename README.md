@@ -1,5 +1,7 @@
 # HoloMenu — Food. With dimension.
 
+**Current production:** The new 60–75-second cinematic product film is being developed shot by shot. See the [production status and briefs](production/README.md). Shot 01 is awaiting keyframe generation and approval; the downloads below are the earlier completed 2D film.
+
 A 45-second, 16:9 motion design concept with original 2D vector illustrations, animated typography, an original electronic score, sound design, and AI voiceover. Final delivery: 1920 × 1080, 30 fps, H.264/AAC.
 
 [Download the MP4](https://github.com/netflix-star/video/raw/refs/heads/main/output/HoloMenu-45s.mp4) · [Download the editable source bundle](https://github.com/netflix-star/video/raw/refs/heads/main/output/HoloMenu-editable-source.zip)

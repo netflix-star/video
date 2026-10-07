@@ -1,0 +1,949 @@
+HOLOMENU — MOTION GRAPHICS PRODUCT FILM
+================================================
+
+FORMAT
+Duration: 60–75 seconds
+Style: Premium cinematic motion graphics + 3D product visualization
+Primary Focus: UI, 3D food, QR, data, transitions, typography
+People: Minimal / secondary
+Visual Language: Premium, clean, dark, sophisticated
+Brand: HoloMenu
+Website: holomenu.food
+
+CORE MESSAGE
+-------------
+Transform Menus into 3D & AR Experiences.
+
+No app. Just scan.
+
+STORY
+-----
+STATIC MENU
+    ↓
+FRICTION
+    ↓
+HOLOMENU
+    ↓
+SCAN
+    ↓
+EXPLORE
+    ↓
+3D
+    ↓
+AR
+    ↓
+ORDER
+    ↓
+TRACK
+    ↓
+MANAGE
+    ↓
+GROW
+    ↓
+BETTER RESTAURANT EXPERIENCE
+
+
+================================================
+SCENE 01 — THE STATIC MENU
+TIME: 00:00–00:04
+================================================
+
+VISUAL:
+Black screen.
+
+A physical restaurant menu slowly materializes from darkness.
+
+Camera pushes toward the menu.
+
+The menu is completely static.
+
+Subtle light sweeps across the surface.
+
+The menu freezes.
+
+MOTION GRAPHICS:
+Thin grid lines begin appearing behind the menu.
+
+Text animates in letter-by-letter:
+
+"A MENU"
+
+Pause.
+
+"SHOULD DO"
+
+Pause.
+
+"MORE."
+
+"MORE" expands slightly and becomes the transition point.
+
+ON-SCREEN:
+A MENU SHOULD DO MORE.
+
+VOICEOVER:
+"For decades, menus have simply told customers what they can order."
+
+
+================================================
+SCENE 02 — STATIC → FRICTION
+TIME: 00:04–00:08
+================================================
+
+VISUAL:
+The physical menu rapidly transforms into:
+
+MENU
+↓
+PDF
+↓
+PHONE SCREEN
+↓
+STATIC FOOD IMAGE
+
+The interface becomes increasingly cluttered.
+
+Motion slows.
+
+Everything freezes.
+
+MOTION GRAPHICS:
+
+READ
+GUESS
+ASK
+WAIT
+
+Each word appears sequentially.
+
+Then all four words collapse toward the center.
+
+They transform into:
+
+FRICTION.
+
+The word "FRICTION" briefly pulses.
+
+VOICEOVER:
+"But a menu can do much more than that."
+
+
+================================================
+SCENE 03 — THE QUESTION
+TIME: 00:08–00:11
+================================================
+
+VISUAL:
+
+Everything disappears.
+
+Pure dark background.
+
+A single QR code appears in the center.
+
+Very slow rotation.
+
+A thin circular energy ring forms around it.
+
+QR code begins glowing.
+
+TEXT appears:
+
+WHAT IF
+YOUR MENU
+COULD BECOME
+AN EXPERIENCE?
+
+The final word "EXPERIENCE" expands toward camera.
+
+Transition through the QR code.
+
+VOICEOVER:
+"What if your menu could become an experience?"
+
+
+================================================
+SCENE 04 — HOLOMENU REVEAL
+TIME: 00:11–00:14
+================================================
+
+VISUAL:
+
+QR particles explode outward.
+
+Particles reorganize into:
+
+HOLOMENU
+
+Logo forms cleanly.
+
+Underneath:
+
+NO APP. JUST SCAN.
+
+Subtle animated ring around the logo.
+
+MOTION:
+
+QR
+→ PARTICLES
+→ LIGHT
+→ HOLOMENU LOGO
+
+VOICEOVER:
+"Meet HoloMenu."
+
+
+================================================
+SCENE 05 — SCAN
+TIME: 00:14–00:17
+================================================
+
+VISUAL:
+
+Minimal restaurant table.
+
+QR code appears as the main visual element.
+
+Camera moves directly toward the QR.
+
+Scan line passes across it.
+
+QR activates.
+
+A digital interface emerges from the QR.
+
+ON-SCREEN:
+
+NO APP.
+NO DOWNLOAD.
+JUST SCAN.
+
+The word "SCAN" becomes the transition.
+
+VOICEOVER:
+"A digital restaurant experience that starts with one simple scan."
+
+
+================================================
+SCENE 06 — DIGITAL MENU
+TIME: 00:17–00:21
+================================================
+
+VISUAL:
+
+The QR transforms directly into a premium HoloMenu interface.
+
+Menu categories appear as floating cards.
+
+STARTERS
+MAINS
+DESSERTS
+BEVERAGES
+
+Cards smoothly arrange themselves.
+
+Food thumbnails animate in.
+
+No human interaction required.
+
+CAMERA:
+
+Slow 3D orbit around the interface.
+
+UI remains perfectly readable.
+
+VOICEOVER:
+"Turn every dish into something customers can see, explore, and understand."
+
+
+================================================
+SCENE 07 — DISH DETAIL
+TIME: 00:21–00:25
+================================================
+
+VISUAL:
+
+One dish card expands.
+
+Example:
+
+TRUFFLE PASTA
+$14.00
+
+Creamy truffle sauce
+Fresh herbs
+Parmesan
+
+Badges:
+
+VEGETARIAN
+CONTAINS DAIRY
+
+Button:
+
+VIEW IN 3D
+
+The "VIEW IN 3D" button becomes the transition.
+
+VOICEOVER:
+"Give every dish more than a name and a photo."
+
+
+================================================
+SCENE 08 — 3D DISH
+TIME: 00:25–00:30
+================================================
+
+VISUAL:
+
+The food image physically transforms into a photorealistic 3D dish.
+
+The dish rises from the interface.
+
+Slow cinematic rotation.
+
+Camera moves around the dish.
+
+Individual ingredients subtly separate.
+
+Ingredient labels appear.
+
+MOTION GRAPHICS:
+
+3D
+INGREDIENTS
+ALLERGENS
+CUSTOMIZATION
+
+The interface remains minimal.
+
+VOICEOVER:
+"Let customers explore dishes in three dimensions."
+
+
+================================================
+SCENE 09 — AR
+TIME: 00:30–00:34
+================================================
+
+VISUAL:
+
+3D dish rotates.
+
+Camera pulls backward.
+
+The dish transitions into an AR frame.
+
+Restaurant table appears.
+
+The virtual dish is placed on the table.
+
+A subtle spatial grid confirms placement.
+
+ON-SCREEN:
+
+VIEW IN AR
+
+Then:
+
+SEE IT BEFORE YOU ORDER IT.
+
+VOICEOVER:
+"And bring them into the real world with augmented reality."
+
+
+================================================
+SCENE 10 — ORDER
+TIME: 00:34–00:38
+================================================
+
+VISUAL:
+
+AR interface transforms into product selection.
+
+Three dishes appear.
+
+TRUFFLE PASTA
+GRILLED SALMON
+CHOCOLATE CAKE
+
+Items fly smoothly into a cart.
+
+Cart counter:
+
+1
+→
+2
+→
+3
+
+Cart expands.
+
+Button:
+
+ADD TO ORDER
+
+VOICEOVER:
+"When they're ready, move from discovery to ordering."
+
+
+================================================
+SCENE 11 — CHECKOUT
+TIME: 00:38–00:41
+================================================
+
+VISUAL:
+
+Premium checkout UI.
+
+YOUR ORDER
+
+3 ITEMS
+
+Subtotal
+Tax
+Total
+
+Large button:
+
+PLACE ORDER
+
+Button activates.
+
+A clean confirmation animation appears.
+
+CHECKMARK.
+
+ORDER CONFIRMED.
+
+VOICEOVER:
+"All within the same experience."
+
+
+================================================
+SCENE 12 — LIVE ORDER TRACKING
+TIME: 00:41–00:46
+================================================
+
+VISUAL:
+
+Order tracking interface expands horizontally.
+
+ORDER RECEIVED
+        ↓
+PREPARING
+        ↓
+READY
+        ↓
+SERVED
+
+Each stage activates sequentially.
+
+A glowing line travels across the timeline.
+
+The interface then becomes a visual data flow:
+
+CUSTOMER
+    ↓
+ORDER
+    ↓
+KITCHEN
+    ↓
+TABLE
+
+VOICEOVER:
+"And customers always know what happens next."
+
+
+================================================
+SCENE 13 — KITCHEN FLOW
+TIME: 00:46–00:49
+================================================
+
+VISUAL:
+
+No people required.
+
+Focus entirely on the system.
+
+Order card enters the kitchen dashboard.
+
+NEW ORDER
+
+#1048
+TRUFFLE PASTA
+2 MIN
+
+Status changes:
+
+NEW
+→
+PREPARING
+→
+READY
+
+A food render appears beside the order.
+
+MOTION:
+
+Digital order
+→ kitchen
+→ preparation
+→ ready
+
+VOICEOVER:
+"From the kitchen..."
+
+
+================================================
+SCENE 14 — RESTAURANT DASHBOARD
+TIME: 00:49–00:53
+================================================
+
+VISUAL:
+
+Kitchen UI zooms outward.
+
+It becomes the complete HoloMenu restaurant dashboard.
+
+Modules appear:
+
+DASHBOARD
+MENU
+ORDERS
+KITCHEN
+CUSTOMERS
+ANALYTICS
+
+Live metrics animate.
+
+TODAY'S ORDERS
+128
+
+CUSTOMERS
+326
+
+REVENUE
+$1,248
+
+VOICEOVER:
+"...restaurants get the tools to manage the experience."
+
+
+================================================
+SCENE 15 — PLATFORM ECOSYSTEM
+TIME: 00:53–00:57
+================================================
+
+VISUAL:
+
+Dashboard collapses into the center.
+
+HOLOMENU
+
+Around it, modules emerge:
+
+MENU
+3D
+AR
+ORDERS
+KITCHEN
+CUSTOMERS
+ANALYTICS
+GROWTH
+
+Each module connects to the center.
+
+Animated lines form a network.
+
+Everything pulses together.
+
+VOICEOVER:
+"Because a modern restaurant needs more than a digital menu."
+
+
+================================================
+SCENE 16 — GROWTH
+TIME: 00:57–01:01
+================================================
+
+VISUAL:
+
+Platform ecosystem transforms into a data visualization.
+
+Bars rise.
+
+Graph curves upward.
+
+Numbers increase.
+
+MORE ORDERS
++
+HAPPIER CUSTOMERS
++
+HIGHER REVENUE
+
+Large metric:
+
++68%
+
+Use the number only as illustrative UI unless backed by real customer data.
+
+VOICEOVER:
+"It needs a better way to connect the entire dining experience."
+
+
+================================================
+SCENE 17 — EXPERIENCE LOOP
+TIME: 01:01–01:05
+================================================
+
+VISUAL:
+
+A single continuous motion graphic.
+
+QR CODE
+    ↓
+DISCOVER
+    ↓
+EXPLORE
+    ↓
+ORDER
+    ↓
+TRACK
+    ↓
+RETURN
+
+The final arrow loops back to DISCOVER.
+
+This creates a continuous restaurant experience loop.
+
+VOICEOVER:
+"From the first scan to the final bite."
+
+
+================================================
+SCENE 18 — THE TRANSFORMATION
+TIME: 01:05–01:09
+================================================
+
+VISUAL:
+
+All previous UI elements appear simultaneously.
+
+Menu.
+3D.
+AR.
+Orders.
+Kitchen.
+Analytics.
+
+They organize themselves into one elegant ecosystem.
+
+Center:
+
+HOLOMENU
+
+Around it:
+
+BETTER EXPERIENCE
+MORE ORDERS
+HAPPIER CUSTOMERS
+
+Everything becomes visually connected.
+
+VOICEOVER:
+"HoloMenu turns every interaction into an opportunity to create a better experience."
+
+
+================================================
+SCENE 19 — BRAND STATEMENT
+TIME: 01:09–01:12
+================================================
+
+VISUAL:
+
+All graphics disappear.
+
+Dark background.
+
+HoloMenu logo appears.
+
+Below:
+
+Transform Menus into
+3D & AR Experiences.
+
+Then:
+
+NO APP. JUST SCAN.
+
+Subtle light sweep.
+
+VOICEOVER:
+"Your menu isn't just where the experience begins."
+
+
+================================================
+SCENE 20 — FINAL CTA
+TIME: 01:12–01:15
+================================================
+
+VISUAL:
+
+HoloMenu logo.
+
+QR code.
+
+Website:
+
+holomenu.food
+
+Large statement:
+
+MAKE YOUR
+MENU AN
+EXPERIENCE.
+
+Below:
+
+CREATE
+→
+PUBLISH
+→
+GROW
+→
+OPERATE
+
+Final subtle glow.
+
+VOICEOVER:
+
+"It can be the technology that connects the entire experience."
+
+Beat.
+
+"HoloMenu."
+
+"Make your menu an experience."
+
+Music ends.
+
+CUT TO BLACK.
+
+
+================================================
+VISUAL / MOTION GRAPHICS RULES
+================================================
+
+1. PEOPLE ARE NOT THE HERO.
+
+Use people only when necessary for context.
+
+The HERO should always be:
+
+- UI
+- 3D food
+- QR
+- AR
+- Data
+- Motion graphics
+- Product ecosystem
+
+
+2. EVERY SCENE SHOULD TRANSFORM INTO THE NEXT.
+
+Avoid:
+
+Scene ends
+→
+random cut
+→
+new scene.
+
+Prefer:
+
+Menu
+→
+PDF
+→
+phone
+→
+QR
+→
+HoloMenu
+→
+UI
+→
+3D
+→
+AR
+→
+Order
+→
+Tracking
+→
+Dashboard
+→
+Growth.
+
+
+3. USE MORPHING TRANSITIONS.
+
+Examples:
+
+QR → Logo
+
+Food image → 3D model
+
+3D → AR
+
+AR → Order
+
+Order → Tracking
+
+Tracking → Kitchen
+
+Kitchen → Dashboard
+
+Dashboard → Ecosystem
+
+Ecosystem → Growth
+
+
+4. CAMERA LANGUAGE
+
+Use:
+
+Slow push-ins
+Smooth orbital camera
+Macro close-ups
+Controlled dolly
+Parallax
+Depth-of-field
+Elegant 3D rotations
+Macro-to-wide transitions
+
+Avoid:
+
+Handheld camera
+Random zooms
+Excessive camera shake
+Fast TikTok-style cuts
+Generic AI camera movement
+
+
+5. UI ANIMATION
+
+Everything should feel physically connected.
+
+Buttons:
+
+Fade + slight upward movement
+
+Cards:
+
+Slide + scale
+
+Charts:
+
+Draw progressively
+
+Numbers:
+
+Count upward
+
+Icons:
+
+Scale + opacity
+
+Transitions:
+
+Morph / dissolve / particle
+
+
+6. FOOD ANIMATION
+
+Food must remain photorealistic.
+
+Use:
+
+Slow rotation
+Ingredient separation
+Ingredient orbit
+Macro camera
+Controlled lighting
+Subtle steam
+Realistic reflections
+Realistic shadows
+
+Avoid floating food that looks artificial.
+
+
+7. TYPOGRAPHY
+
+Use large typography as a visual element.
+
+Examples:
+
+A MENU
+SHOULD DO
+MORE.
+
+FRICTION.
+
+JUST SCAN.
+
+EXPLORE.
+
+3D.
+
+AR.
+
+ORDER.
+
+TRACK.
+
+GROW.
+
+MAKE YOUR
+MENU AN
+EXPERIENCE.
+
+
+8. BRAND FEEL
+
+Premium.
+Minimal.
+Technological.
+Restaurant-focused.
+Not overly futuristic.
+Not cyberpunk.
+Not cartoon.
+Not generic SaaS.
+
+Think:
+
+PREMIUM RESTAURANT
++
+APPLE-STYLE PRODUCT FILM
++
+MODERN 3D MOTION DESIGN
++
+INTERACTIVE FOOD TECHNOLOGY
+
+
+================================================
+FINAL BRAND MESSAGE
+================================================
+
+HOLOMENU
+
+Transform Menus into 3D & AR Experiences.
+
+NO APP. JUST SCAN.
+
+CREATE → PUBLISH → GROW → OPERATE
+
+holomenu.food

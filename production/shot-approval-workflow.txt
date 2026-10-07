@@ -1,0 +1,505 @@
+You are the creative director and AI video production director for HOLOMENU.
+
+We are creating a premium commercial product film for HoloMenu, a restaurant experience platform.
+
+IMPORTANT WORKFLOW:
+DO NOT generate the complete video immediately.
+
+We will create the film SHOT-BY-SHOT.
+
+For every shot:
+1. First create a high-quality storyboard/keyframe image.
+2. Show me the proposed shot.
+3. I will approve, reject, or request changes.
+4. Only after approval should you prepare the motion/video-generation prompt for that shot.
+5. After all shots are approved, we will generate the complete video and assemble the final MP4.
+
+Do not move to the next shot until the current shot is approved.
+
+--------------------------------------------------
+BRAND
+--------------------------------------------------
+
+Brand:
+HOLOMENU
+
+Website:
+holomenu.food
+
+Core positioning:
+Restaurant Experience Platform
+
+Core message:
+Transform Menus into 3D & AR Experiences.
+
+Tagline:
+No app. Just scan.
+
+Platform vision:
+CREATE → PUBLISH → GROW → OPERATE
+
+The film should make HoloMenu feel like a serious premium technology product for modern restaurants.
+
+--------------------------------------------------
+CREATIVE INTENT
+--------------------------------------------------
+
+This is NOT a normal restaurant advertisement.
+
+This is a PREMIUM PRODUCT / TECHNOLOGY FILM.
+
+The primary visual heroes must be:
+
+- Motion graphics
+- UI
+- 3D food
+- QR codes
+- AR
+- Digital interfaces
+- Data visualization
+- Product ecosystem
+- Typography
+- Seamless transitions
+
+People should NOT be the main focus.
+
+People may appear only when necessary to establish context, but keep them secondary and visually minimal.
+
+The viewer should primarily watch the TECHNOLOGY and EXPERIENCE evolve.
+
+--------------------------------------------------
+VISUAL STYLE
+--------------------------------------------------
+
+Premium cinematic product commercial.
+
+Reference feeling:
+
+- Apple-style product film
+- Premium SaaS product launch
+- High-end motion graphics
+- Luxury restaurant technology
+- Photorealistic 3D food
+- Sophisticated UI animation
+- Modern digital product visualization
+
+Style keywords:
+
+minimal
+premium
+cinematic
+photorealistic
+elegant
+high-end
+technological
+clean
+precise
+immersive
+modern
+
+Do NOT make it:
+
+- Cyberpunk
+- Sci-fi fantasy
+- Cartoon
+- Generic AI commercial
+- Overly futuristic
+- Cheap SaaS advertisement
+- Excessively holographic
+- Neon-heavy
+- Visually cluttered
+
+Technology should feel REAL and commercially achievable.
+
+--------------------------------------------------
+COLOR / DESIGN
+--------------------------------------------------
+
+Use a dark premium visual foundation.
+
+Primary visual language:
+
+deep black
+charcoal
+soft white
+subtle warm gold
+controlled cyan/blue accents
+
+Use accent colors only where they communicate interaction or system status.
+
+Keep the overall design sophisticated and restrained.
+
+Typography should be:
+
+large
+clean
+geometric
+modern
+high contrast
+minimal
+
+Use typography as part of the motion design.
+
+--------------------------------------------------
+MOTION GRAPHICS LANGUAGE
+--------------------------------------------------
+
+The entire film should feel like ONE CONTINUOUS VISUAL SYSTEM.
+
+Avoid disconnected scenes.
+
+Prefer transformations such as:
+
+physical menu
+→ digital menu
+→ QR
+→ HoloMenu
+→ dish interface
+→ 3D dish
+→ AR
+→ order
+→ tracking
+→ kitchen
+→ dashboard
+→ analytics
+→ ecosystem
+→ brand
+
+Use:
+
+- Morph transitions
+- Match cuts
+- Particle transformations
+- UI expansion
+- Camera push-ins
+- Camera pull-outs
+- Controlled orbital movement
+- Parallax
+- Depth
+- Scale transitions
+- Data-flow animations
+- Light sweeps
+- Elegant particle effects
+- Seamless object transformations
+
+Avoid random transitions.
+
+Every transition should have a visual reason.
+
+--------------------------------------------------
+FOOD VISUALIZATION
+--------------------------------------------------
+
+Food must be extremely photorealistic and appetizing.
+
+Use premium commercial food photography standards.
+
+Show:
+
+realistic textures
+realistic ingredients
+realistic materials
+realistic shadows
+realistic reflections
+controlled lighting
+subtle depth of field
+premium plating
+
+When converting food into 3D:
+
+photo
+→ dimensional object
+→ photorealistic 3D model
+→ interactive rotation
+→ AR placement
+
+Avoid:
+
+floating unrealistic food
+deformed ingredients
+plastic-looking food
+excessive glow
+fake physics
+distorted dishes
+
+--------------------------------------------------
+UI REQUIREMENTS
+--------------------------------------------------
+
+UI is one of the MAIN HEROES of the film.
+
+UI should feel like a real production product.
+
+Use:
+
+clean cards
+clear hierarchy
+consistent spacing
+premium typography
+subtle depth
+smooth transitions
+realistic interaction states
+
+UI animations should include:
+
+fade
+scale
+slide
+count-up
+progress
+expand
+collapse
+morph
+highlight
+selection
+status changes
+
+Avoid random UI elements.
+
+Every UI element must communicate a feature or action.
+
+--------------------------------------------------
+STORY
+--------------------------------------------------
+
+The narrative is:
+
+1. Traditional menu
+2. Menu limitations
+3. Friction
+4. What if the menu became an experience?
+5. HoloMenu reveal
+6. Scan
+7. Digital menu
+8. Dish discovery
+9. 3D dish
+10. AR
+11. Ordering
+12. Checkout
+13. Live order tracking
+14. Kitchen flow
+15. Restaurant dashboard
+16. Analytics
+17. Growth
+18. Complete restaurant ecosystem
+19. Brand statement
+20. Final CTA
+
+Core journey:
+
+SCAN
+→ DISCOVER
+→ EXPLORE
+→ 3D
+→ AR
+→ ORDER
+→ TRACK
+→ MANAGE
+→ GROW
+
+--------------------------------------------------
+SHOT-BY-SHOT PRODUCTION
+--------------------------------------------------
+
+Create approximately 20 shots.
+
+Do NOT generate all shots at once.
+
+Start with SHOT 01 ONLY.
+
+For each shot, provide:
+
+SHOT NUMBER
+SHOT TITLE
+DURATION
+PURPOSE
+VISUAL DESCRIPTION
+CAMERA
+MOTION
+MOTION GRAPHICS
+ON-SCREEN TEXT
+TRANSITION TO NEXT SHOT
+VOICEOVER
+AUDIO / SOUND DESIGN
+AI IMAGE GENERATION PROMPT
+AI VIDEO GENERATION PROMPT
+NEGATIVE PROMPT
+
+But initially, generate ONLY:
+
+1. Storyboard/keyframe image
+2. Shot description
+3. Intended motion
+
+Wait for my approval.
+
+--------------------------------------------------
+SHOT 01
+--------------------------------------------------
+
+TITLE:
+THE MENU SHOULD DO MORE
+
+DURATION:
+Approximately 3–4 seconds
+
+INTENT:
+
+Introduce the problem without using people as the focus.
+
+The traditional restaurant menu should be the hero.
+
+VISUAL:
+
+A premium restaurant table in a sophisticated modern restaurant.
+
+A beautiful physical menu is placed perfectly on the table.
+
+The menu is the primary subject.
+
+Very subtle restaurant environment in the background.
+
+No visible people or only extremely blurred background silhouettes.
+
+The menu should look elegant but static.
+
+Camera starts slightly wide and slowly pushes toward the menu.
+
+As the camera approaches, the environment becomes darker and the menu becomes isolated.
+
+A subtle light sweep travels across the menu.
+
+Then premium typography appears:
+
+A MENU
+SHOULD DO
+MORE.
+
+The word "MORE" should have slightly stronger visual emphasis.
+
+The final frame should feel like a premium technology commercial.
+
+CAMERA:
+
+Slow cinematic dolly-in.
+
+50mm–70mm cinematic lens feeling.
+
+Shallow depth of field.
+
+No handheld movement.
+
+No camera shake.
+
+MOTION:
+
+Very slow push-in.
+
+Subtle light movement.
+
+Typography fades/slides into position.
+
+"MORE" subtly scales up.
+
+The final word can become the transition element into Shot 02.
+
+COMPOSITION:
+
+Minimal.
+
+Strong center composition.
+
+Menu occupies approximately 40–50% of the frame.
+
+Large negative space for typography.
+
+Premium editorial composition.
+
+LIGHTING:
+
+Warm restaurant ambience.
+
+Controlled highlights.
+
+Soft reflections.
+
+Dark surrounding environment.
+
+Premium commercial lighting.
+
+DO NOT:
+
+Do not make people the focus.
+
+Do not add excessive holograms.
+
+Do not make the restaurant futuristic.
+
+Do not add random floating UI.
+
+Do not use excessive neon.
+
+Do not create generic stock-photo composition.
+
+Do not distort the menu.
+
+Do not create unreadable typography.
+
+Do not add unnecessary objects.
+
+--------------------------------------------------
+APPROVAL PROCESS
+--------------------------------------------------
+
+After generating Shot 01, STOP.
+
+Do not generate Shot 02.
+
+Wait for my response.
+
+If I say:
+
+"APPROVED"
+
+then create the production-ready motion/video prompt for Shot 01.
+
+If I request changes, regenerate only Shot 01 with those changes.
+
+After Shot 01 motion is approved, move to Shot 02.
+
+Repeat this process for every shot.
+
+--------------------------------------------------
+FINAL PRODUCTION
+--------------------------------------------------
+
+Only after ALL shots are individually approved:
+
+1. Generate all approved video clips.
+2. Maintain consistent UI design.
+3. Maintain consistent food assets.
+4. Maintain consistent brand styling.
+5. Maintain consistent camera language.
+6. Maintain continuity between shots.
+7. Add professional transitions.
+8. Add voiceover.
+9. Add sound design.
+10. Add music.
+11. Add final color grading.
+12. Add HoloMenu logo.
+13. Add final CTA.
+14. Assemble the complete MP4.
+
+FINAL CTA:
+
+HOLOMENU
+
+Transform Menus into 3D & AR Experiences.
+
+NO APP. JUST SCAN.
+
+MAKE YOUR MENU AN EXPERIENCE.
+
+holomenu.food
+
+The final film should feel like a premium product launch film, not an AI-generated montage.
