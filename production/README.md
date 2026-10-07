@@ -1,19 +1,16 @@
-# HoloMenu cinematic product film
+# Completed product film
 
-The current direction is a 60–75-second premium product film using photographic restaurant imagery, dark charcoal backgrounds, restrained warm gold accents, clear product UI, and seamless transitions.
+The user's latest instruction, **“complete the video,”** authorized completing the full supplied storyboard. The resulting cinematic film is 75 seconds, 20 shots, 1920 × 1080 at 30 fps, with AI narration, original music and sound design. It uses 2D photographic compositing and vector motion; no 3D models or renders.
 
-## Current status
+- [Final MP4](../output/HoloMenu-75s.mp4)
+- [All 20 frames](../output/storyboard.jpg)
+- [Individual frames](frames/)
+- [Creative timeline](../CREATIVE.md)
+- [Editable source](../output/HoloMenu-editable-source.zip)
 
-Shot 01 is planned. Its keyframe has not been generated or approved. The last image-generation attempt returned `usage_limit_reached`. No production-ready motion prompt, later shot, or new video has been created.
+The original user-supplied documents are preserved unchanged:
 
-The completed 45-second 2D film in `output/` is an earlier direction, not the new cinematic film.
+- [Product-film brief](product-film-brief.txt)
+- [Earlier shot-review workflow](shot-approval-workflow.txt)
 
-## Briefs and Shot 01
-
-- [Product film brief](product-film-brief.txt): the complete proposed narrative and feature sequence.
-- [Approval workflow](shot-approval-workflow.txt): the user's shot-by-shot production instructions.
-- [Shot 01 plan](shot-01/SHOT-01.md): proposed composition, typography, intended motion, and last generation status.
-
-## Next step
-
-Generate and show Shot 01's keyframe. Wait for the user's approval or changes. Only after keyframe approval, prepare its motion/video-generation prompt. Proceed to Shot 02 after that motion is approved.
+The original Shot 01 planning document records the earlier generation blocker; image generation subsequently became available and production proceeded to completion. Individual shots were internally reviewed, not represented as individually approved by the user.

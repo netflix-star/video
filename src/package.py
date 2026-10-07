@@ -1,18 +1,20 @@
-"""Bundle the current editable 2D film, SVG artwork, captions, and audio stems."""
+"""Bundle the current editable cinematic film, photography, captions, and audio stems."""
 from pathlib import Path
 import zipfile
 
 root = Path(__file__).resolve().parents[1]
 files = [root / name for name in (
     'README.md', 'CREATIVE.md', '.gitignore', 'package.json', 'package-lock.json',
-    'index.html', 'assets/ATTRIBUTION.md', 'assets/Manrope.ttf',
+    'index.html', 'watch.html', 'production/README.md', 'assets/ATTRIBUTION.md', 'assets/Manrope.ttf',
     'assets/Manrope-LICENSE.txt', 'assets/CormorantGaramond-Italic.ttf',
     'assets/CormorantGaramond-LICENSE.txt', 'output/captions.srt', 'output/mix.wav',
     'output/music.wav', 'output/voiceover.wav', 'output/poster.jpg',
-    'output/end-card.jpg', 'output/validation.json',
+    'output/end-card.jpg', 'output/storyboard.jpg', 'output/validation.json',
 )]
 files += sorted((root / 'src').glob('*.*'))
+files += sorted((root / 'assets/cinematic').glob('*'))
 files += sorted((root / 'assets/illustrations').glob('*.svg'))
+files += sorted((root / 'production/frames').glob('*'))
 for path in files:
     if not path.is_file():
         raise FileNotFoundError(path)
@@ -23,4 +25,4 @@ with zipfile.ZipFile(target, 'w', compression=zipfile.ZIP_DEFLATED, compressleve
 with zipfile.ZipFile(target) as bundle:
     if bundle.testzip() is not None:
         raise RuntimeError('Archive integrity check failed')
-print(f'Verified 2D source bundle: {len(files)} files, {target.stat().st_size / 1e6:.1f} MB')
+print(f'Verified cinematic source bundle: {len(files)} files, {target.stat().st_size / 1e6:.1f} MB')

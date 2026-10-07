@@ -1,35 +1,79 @@
 1
-00:00:00,650 --> 00:00:02,165
-What if your next craving
+00:00:00,500 --> 00:00:04,159
+For decades, menus simply told customers what they could order.
 
 2
-00:00:04,350 --> 00:00:06,115
-had a whole new dimension?
+00:00:04,400 --> 00:00:06,939
+But today, customers expect more.
 
 3
-00:00:08,550 --> 00:00:12,280
-Every layer. Every angle. Every delicious detail.
+00:00:08,150 --> 00:00:10,795
+What if your menu became an experience?
 
 4
-00:00:14,400 --> 00:00:16,899
-A little closer. A little more real.
+00:00:11,500 --> 00:00:13,079
+Meet Holo Menu.
 
 5
-00:00:20,250 --> 00:00:23,941
-This is food that makes you stop. Look. And look again.
+00:00:14,150 --> 00:00:17,008
+No app. No download. Just scan.
 
 6
-00:00:26,350 --> 00:00:29,723
-Because great taste deserves a great first impression.
+00:00:17,250 --> 00:00:21,104
+Turn every dish into something customers can see, explore, and understand.
 
 7
-00:00:32,250 --> 00:00:36,093
-Turn a moment of curiosity into a moment of craving.
+00:00:21,350 --> 00:00:24,337
+Give every dish more than a name and a photo.
 
 8
-00:00:38,350 --> 00:00:39,617
-Holo Menu.
+00:00:25,300 --> 00:00:30,050
+Let customers look closer. Explore ingredients. And choose with confidence.
 
 9
-00:00:41,150 --> 00:00:42,617
-See what's possible.
+00:00:30,300 --> 00:00:33,671
+Bring the dish to their table with augmented reality.
+
+10
+00:00:34,300 --> 00:00:36,945
+Then move from discovery to ordering.
+
+11
+00:00:38,150 --> 00:00:40,353
+All within the same experience.
+
+12
+00:00:41,350 --> 00:00:45,871
+From the kitchen to the table, customers always know what happens next.
+
+13
+00:00:46,300 --> 00:00:48,561
+And every order flows seamlessly.
+
+14
+00:00:49,250 --> 00:00:52,855
+With the tools to manage your restaurant in one place.
+
+15
+00:00:53,250 --> 00:00:57,060
+Because a modern restaurant needs more than a digital menu.
+
+16
+00:00:57,300 --> 00:01:01,005
+More orders. Happier customers. A stronger business.
+
+17
+00:01:01,300 --> 00:01:03,860
+From the first scan to the final bite.
+
+18
+00:01:05,250 --> 00:01:08,621
+Turn every interaction into a better experience.
+
+19
+00:01:09,300 --> 00:01:10,644
+Holo Menu.
+
+20
+00:01:12,200 --> 00:01:14,312
+Make your menu an experience.

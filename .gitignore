@@ -9,3 +9,5 @@ assets/BodoniModa.ttf
 output/picture.mp4
 output/sample-*.jpg
 output/voice-[0-9][0-9].wav
+
+:memory:.ses

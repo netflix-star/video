@@ -7,7 +7,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "python -m http.server 8000 --bind 0.0.0.0",
+    "start": "python src/serve.py",
     "render": "node src/render.mjs && bash src/finish.sh",
     "frames": "node src/render.mjs --samples",
     "package": "python src/package.py"

@@ -1,33 +1,44 @@
 {
-    "programs": [
-
-    ],
-    "stream_groups": [
-
-    ],
-    "streams": [
-        {
-            "codec_name": "h264",
-            "width": 1920,
-            "height": 1080,
-            "r_frame_rate": "30/1",
-            "nb_frames": "1350",
-            "side_data_list": [
-                {
-
-                }
-            ]
-        },
-        {
-            "codec_name": "aac",
-            "sample_rate": "48000",
-            "channels": 2,
-            "r_frame_rate": "0/0",
-            "nb_frames": "2111"
-        }
-    ],
-    "format": {
-        "duration": "45.000000",
-        "size": "12838148"
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+    {
+      "codec_name": "h264",
+      "width": 1920,
+      "height": 1080,
+      "r_frame_rate": "30/1",
+      "nb_frames": "2250",
+      "side_data_list": [
+        {}
+      ]
+    },
+    {
+      "codec_name": "aac",
+      "sample_rate": "48000",
+      "channels": 2,
+      "r_frame_rate": "0/0",
+      "nb_frames": "3517"
     }
+  ],
+  "format": {
+    "duration": "75.000000",
+    "size": "38675480"
+  },
+  "verification": {
+    "frames": 2250,
+    "full_decode_errors": 0,
+    "browser_playback": "passed",
+    "browser_seek_seconds": [
+      2,
+      19,
+      38,
+      57,
+      74
+    ],
+    "qr_decoded_url": "https://www.holomenu.food",
+    "integrated_loudness_lufs": -16.3,
+    "true_peak_dbtp": -1.82,
+    "fast_start": true,
+    "sha256": "3c2719d6302afd3f76a5c6fa03b8e9f3a04e05fb15d38af94efacb218b6080fc"
+  }
 }

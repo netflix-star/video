@@ -1,35 +1,38 @@
-# See what’s possible.
+# HoloMenu — Make your menu an experience.
 
-The creative idea: appetite begins with attention. A familiar dish becomes an intriguing object, then a collection, then an invitation to explore HoloMenu.
+A 75-second product film in 20 scenes, following the user's supplied photographic storyboard. The cinematic restaurant look uses deep charcoal, warm gold, restrained cyan interactions, appetizing food photography and large white Manrope typography. All animation and compositing are two-dimensional.
 
-## Art direction
+## Shot timeline
 
-Acid lime, warm ivory, charcoal green, plum, and dusty pink. Oversized Manrope typography paired with Cormorant Garamond italic. Original 2D food illustrations with bold contour lines, solid fills, animated eyes, playful stickers, and graphic wipes. Every visual uses flat vector shapes; no 3D models, lighting, or rendered food assets are used. A minimal custom wordmark replaces unverified official artwork.
-
-## Edit
-
-| Time | Picture | Voiceover |
-| --- | --- | --- |
-| 00–04 | Illustrated eye character, large type, flat stripe transition | What if your next craving… |
-| 04–08 | Illustrated burger bounces onto an acid-lime stage | …had a whole new dimension? |
-| 08–14 | Vector burger separates into independently moving ingredient layers | Every layer. Every angle. Every delicious detail. |
-| 14–20 | Illustrated hand and phone with a sliding food carousel | A little closer. A little more real. |
-| 20–26 | Pink pop-art posters with illustrated food and appetite typography | This is food that makes you stop. Look. And look again. |
-| 26–32 | Burger, pizza, and noodle-bowl illustrations move in a three-part collection | Because great taste deserves a great first impression. |
-| 32–38 | Full-frame kinetic words, illustrated magnifier, and floating vector accents | Turn a moment of curiosity into a moment of craving. |
-| 38–42 | Illustrated food burst and brand positioning | Holo Menu. |
-| 42–45 | Large wordmark, illustrated eye seal, and website invitation | See what’s possible. |
+| Shot | Time | Picture and motion |
+|---|---|---|
+| 01 | 00–04 | Physical menu; slow photographic push; staggered “A menu should do more” typography |
+| 02 | 04–08 | Paper menu and digital menu juxtaposition; Read / Guess / Ask / Wait; red Friction hit |
+| 03 | 08–11 | Floating QR card; “What if your menu became an experience?” |
+| 04 | 11–14 | HoloMenu brand reveal; orbital light strokes and restrained particles |
+| 05 | 14–17 | QR scanning sweep; menu opened confirmation; no app, no download |
+| 06 | 17–21 | Staggered digital menu categories and food photography |
+| 07 | 21–25 | Truffle pasta hero card; description, dietary badges, View in 3D |
+| 08 | 25–30 | Food closeup and 2D orbit rings; cycling feature controls |
+| 09 | 30–34 | Illustrated AR phone viewport composited over the restaurant table |
+| 10 | 34–38 | Three-dish selection; Add to order → added confirmation |
+| 11 | 38–41 | Checkout summary; Place order → order confirmed |
+| 12 | 41–46 | Live order timeline; sequentially illuminated status nodes |
+| 13 | 46–49 | Photographic kitchen pass; preparing → ready order card |
+| 14 | 49–53 | Restaurant dashboard; animated order counter and graph; illustrative data label |
+| 15 | 53–57 | Eight platform modules; connected lines and moving signals |
+| 16 | 57–61 | Rising bars and line; orders, customers, revenue; no numeric growth claim |
+| 17 | 61–65 | Discover → Explore → Order → Track → Return icon journey |
+| 18 | 65–69 | Restaurant, menu, food, kitchen and analytics composed into one connected experience |
+| 19 | 69–72 | Brand promise; Create → Publish → Grow → Operate |
+| 20 | 72–75 | Working QR code; “Make your menu an experience”; website CTA |
 
 ## Sound
 
-Original 120 BPM electronic instrumental in a minor harmonic palette. Rounded sub-bass, sidechained pads, alternating stereo plucks, punchy kick, textured claps, crisp hats, and edit-aligned sweeps. Narration sits in the center with a subtle room treatment. Music ducks beneath speech. Final master targets approximately −17 LUFS with headroom below −1 dBTP after AAC encoding.
+Warm male AI narration recorded synthetically with Kokoro `am_michael`; each phrase is placed against a specific shot. Pitch-preserving FFmpeg tempo processing fits longer lines without changing the voice's pitch. Original 120 BPM music uses a D minor / C / B-flat progression, soft arpeggios, wide pads, bass, kick, percussion, transition sweeps and low impacts. The arrangement builds after the opening and resolves into the end card. The score ducks under speech; the final stereo master is loudness controlled.
 
-Voice: Kokoro `af_heart`, American English, generated narration. It is a synthetic voice, not a human recording.
+## Source and scope
 
-## Editing notes
+`src/cinematic.js` draws every frame deterministically with Canvas 2D; the photographic layers remain editable individual PNGs. There is no model-based dish rotation: gentle 2D plate motion, orbit graphics and UI controls illustrate the product story. The UI is conceptual promotional design based on the supplied brief. The website's public description verifies the no-app AR/3D menu positioning; the broader restaurant modules follow the user's requested storyboard.
 
-Open `assets/illustrations/*.svg` in Adobe Illustrator to edit paths, outlines, and flat fills. Burger layers are separate, aligned SVG files, so their motion remains independently editable.
-
-Update scene copy, color values, SVG illustrations, and time boundaries in `src/film.js`. Edit narration lines and their start times in `src/audio.py`; regenerate audio and render again. All animation is deterministic at a given timestamp.
-
-Website access was unavailable in the production environment. Product interface and brand styling need to be checked against the actual HoloMenu site before official publication.
+The latest instruction to complete the video superseded the earlier shot-by-shot review workflow. The original briefs remain unchanged in `production/` for reference.
